@@ -9,11 +9,17 @@ $primary200: #90caf9;
 $primary800: #1565c0;
 
 // secondary
-$secondaryLight: #ede7f6;
-$secondaryMain: #673ab7;
-$secondaryDark: #5e35b1;
-$secondary200: #b39ddb;
-$secondary800: #4527a0;
+// $secondaryLight: #ede7f6;
+// $secondaryMain: #673ab7;
+// $secondaryDark: #5e35b1;
+// $secondary200: #b39ddb;
+// $secondary800: #4527a0;
+
+$secondaryLight: black; // Lightest shade - Blue
+$secondaryMain: #22358b; // Main color - blue
+$secondaryDark: #ffffff; // Dark shade - orange
+$secondary200: #223586; // Light shade - blue
+$secondary800: #182562; // Darkest shade - dark blue
 
 // success Colors
 $successLight: #cdf5d8;
