@@ -263,7 +263,10 @@ const Header = ({ handleLeftDrawerToggle }) => {
                         }
                     }}
                 >
-                    <GitHubStarButton starCount={starCount} isDark={isDark} />
+                    {/*
+                     <GitHubStarButton starCount={starCount} isDark={isDark} />
+                     */}
+
                 </Box>
             ) : (
                 <Box sx={{ flexGrow: 1 }} />
