@@ -104,3 +104,5 @@
 ## S/MIME message
 *.smime
 *.vsix
+# Ignore machine-specific env file
+packages/server/.env.akira
