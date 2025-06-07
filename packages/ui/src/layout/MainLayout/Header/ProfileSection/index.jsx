@@ -498,7 +498,7 @@ const ProfileSection = ({ handleLogout }) => {
                                                     <ListItemIcon>
                                                         <IconInfoCircle stroke={1.5} size='1.3rem' />
                                                     </ListItemIcon>
-                                                    <ListItemText primary={<Typography variant='body2'>Version</Typography>} />
+                                                    <ListItemText primary={<Typography variant='body2'>About Akira</Typography>} />
                                                 </ListItemButton>
                                                 {isAuthenticated && !currentUser.isSSO && !isCloud && (
                                                     <ListItemButton
